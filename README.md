@@ -34,44 +34,9 @@
 
 ---
 
-### 📺 Son YouTube Videolarım
-
-<!-- YOUTUBE:START -->
-- [Video 1 Başlığı](https://www.youtube.com/watch?v=video1_id)
-- [Video 2 Başlığı](https://www.youtube.com/watch?v=video2_id)
-- [Video 3 Başlığı](https://www.youtube.com/watch?v=video3_id)
-<!-- YOUTUBE:END -->
-
-➡️ [Daha fazla video...](https://www.youtube.com/channel/UC123456789)
-
----
-
-### 📕 Son Blog Yazılarım
-
-<!-- BLOG-POST-LIST:START -->
-- [Blog Yazısı 1 Başlığı](https://example.com/blog-yazisi-1)
-- [Blog Yazısı 2 Başlığı](https://example.com/blog-yazisi-2)
-- [Blog Yazısı 3 Başlığı](https://example.com/blog-yazisi-3)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [Daha fazla blog yazısı...](https://example.com/blog)
-
----
-
-<details>
-  <summary>:zap: Son GitHub Aktivitem</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 [Issue veya PR açıklaması](https://github.com/username/repo/issues/1)
-2. 💪 [Yeni PR açıldı](https://github.com/username/repo/pull/2)
-3. 🗣 [Başka bir issue açıklaması](https://github.com/username/repo/issues/3)
-<!--END_SECTION:activity-->
-
-</details>
-
 <details>
   <summary>:zap: GitHub İstatistiklerim</summary>
 
-  <img align="left" alt="[Adınız]'ın GitHub İstatistikleri" src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="[Efekan]'ın GitHub İstatistikleri" src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
