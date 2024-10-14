@@ -1,9 +1,5 @@
 # Merhaba, ben Efekan Kizir 👋
 
-[![Kişisel Web Sitesi](https://img.shields.io/website?label=Web%20Sitem&style=for-the-badge&url=https%3A%2F%2Fexample.com)](https://example.com)
-[![LinkedIn Profiliniz](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/username/)
-[![Twitter Takipçisi](https://img.shields.io/twitter/follow/username?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fusername&screen_name=username)
-
 ## Hakkımda
 
 - 🔭 **Şu anda üzerinde çalıştığım proje:** [Proje Adı](https://github.com/username/proje-adi)
