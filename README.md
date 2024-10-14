@@ -2,19 +2,18 @@
 
 ## Hakkımda
 
-- 🔭 **Şu anda üzerinde çalıştığım proje:** [Proje Adı](https://github.com/username/proje-adi)
-- 🌱 **Öğrenmekte olduğum konular:** ASP.NET Core, MSSQL, Raspberry Pi
-- 👯 **İşbirliği yapmak istediğim kişiler:** Yazılım geliştiricileri ve teknoloji tutkunları
-- 🥅 **2024 Hedeflerim:** Stok kontrol uygulamamı tamamlamak ve dağıtıma sunmak
-- ⚡ **Eğlenceli bir bilgi:** Kitap okumayı ve yeni teknolojileri keşfetmeyi seviyorum
+- 🔭 **Şu anda üzerinde çalıştığım proje:** [Proje Adı](https://github.com/efekankzr/proje-adi)
+- 🌱 **Öğrenmekte olduğum konular:** ASP.Net Core, Mikroservisler
+- 👯 **İşbirliği yapmak istediğim kişiler:** Yazılım geliştiriciler, açık kaynak katkıcıları
+- 🥅 **2024 Hedeflerim:** .NET Framework'te derinleşmek
+- ⚡ **Eğlenceli bir bilgi:** Boş zamanlarımda oyun oynuyor ve arkadaşlarım ile vakit geçiriyorum
 
 ### Benimle İletişime Geçin
 
 [![Web Sitesi](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://example.com)
 [![YouTube Kanalı](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC123456789)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/username/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/efekan-kizir-484307229)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/efekan_kzr/)
 
 ### Kullandığım Diller ve Araçlar
 
@@ -39,6 +38,6 @@
 <details>
   <summary>:zap: GitHub İstatistiklerim</summary>
 
-  <img align="left" alt="Efekan Kizir'ın GitHub İstatistikleri" src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="Efekan Kizir'in GitHub İstatistikleri" src="https://github-readme-stats.vercel.app/api?username=efekankzr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
