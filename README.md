@@ -21,10 +21,11 @@
 
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)  
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)  
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)  
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)  
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
 [![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)  
 [![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=arduino&logoColor=white)](https://www.espressif.com/en/products/socs/esp32)  
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)  
@@ -34,9 +35,17 @@
 
 ## 🚀 Öne Çıkan Projeler
 
-- **[IndustryX](https://github.com/efekankzr)** – Üretim & satış yönetim sistemi (.NET 8, EF, MVC, Onion Architecture)  
-- **IoT Araç Takip Sistemi** – ESP32 & SIM808 ile geliştirilen araç konum izleme cihazı  
-- **IndustryX Mobile** – Flutter ile geliştirilen, stok yönetimi ve alan operasyonları için mobil uygulama  
+- **[IndustryX](#)** – Üretim ve satış süreçlerini tek platformda yöneten, modüler yapıya sahip bir ERP sistemidir  
+  - ASP.NET Core MVC (.NET 8), Entity Framework ve Onion Architecture ile geliştirildi  
+  - Ürün stok takibi, üretim reçeteleri, sipariş yönetimi ve kullanıcı rolleri desteklenmektedir  
+
+- **[IoT Araç Takip Sistemi](#)** – ESP32 ve SIM808 modülü kullanarak geliştirilen gerçek zamanlı GPS takip cihazı  
+  - Konum verisi GSM üzerinden sunucuya iletilmektedir  
+  - Araç güvenliği ve filo yönetimi için kullanılabilir, gömülü yazılım C/C++ ile yazılmıştır  
+
+- **[IndustryX Mobile](#)** – Android Studio ve Java ile geliştirilen mobil uygulama  
+  - Depo personelinin ürün giriş/çıkışlarını ve stok durumlarını sahada anlık olarak yönetmesine olanak sağlar  
+  - IndustryX RESTful API ile entegre çalışır  
 
 ---
 
