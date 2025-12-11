@@ -46,12 +46,3 @@
 | **[IndustryX](https://github.com/efekankzr)** | Üretim ve satış süreçlerini tek platformda yöneten, modüler yapıya sahip ERP sistemi. | `.NET 8` `MVC` `EF Core` |
 | **[IoT Araç Takip](https://github.com/efekankzr)** | ESP32 ve SIM808 modülü ile geliştirilen, GSM üzerinden sunucuya veri aktaran GPS takip cihazı. | `C/C++` `ESP32` `IoT` |
 | **[IndustryX Mobile](https://github.com/efekankzr)** | Depo personelinin stok durumlarını sahada anlık yönetmesini sağlayan mobil uygulama. | `Java` `Android` `API` |
-
----
-
-### 📊 GitHub İstatistiklerim
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=efekankzr&show_icons=true&theme=radical" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efekankzr&layout=compact&theme=radical" height="180" alt="languages" />
-</div>
